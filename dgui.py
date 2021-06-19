@@ -173,7 +173,7 @@ class WindowClass(QMainWindow, form_class) :
 		h,w,ch = rgbImage.shape
 		bpl = ch * w
 		converToQtFormat = QImage(rgbImage.data, w, h, bpl, QImage.Format_RGB888)
-		qimage = converToQtFormat.scaled(480,300, Qt.KeepAspectRatio)
+		qimage = converToQtFormat.scaled(720,480, Qt.KeepAspectRatio)
 		self.drone_cam_label.setPixmap(QPixmap.fromImage(qimage))
 		self.drone_cam_label.show()
 		QApplication.processEvents()
