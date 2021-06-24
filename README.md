@@ -28,5 +28,5 @@ Mission2 : Drone Landing Mode
 Stop : All process will stop  
 
 **실행 화면**
-[![VIP – D2V GUI test](http://img.youtube.com/vi/m_2QwbOrvU0/0.jpg)](https://youtu.be/m_2QwbOrvU0?t=0s) 
+[![VIP – DRONE GUI test](http://img.youtube.com/vi/ptom8BGw344/0.jpg)](https://youtu.be/ptom8BGw344) 
 
